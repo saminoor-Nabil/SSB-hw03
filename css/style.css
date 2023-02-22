@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+header h1{
+    background-color: aquamarine;
+    padding: 15px;
+    text-align: center;
+}
+nav h1{
+    padding: 15px;
+    background-color: cadetblue;
+    text-align: center;
+}
+section{
+    overflow: hidden;
+}
+aside{
+    background-color: coral;
+    width: 20%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    
+}
+header{
+    background-color: darkolivegreen;
+    text-align: center;
+    overflow: hidden;
+}
+.logo{
+    width: 10%;
+    background-color: darkorange;
+    float: left;
+}
+.banner{
+    width: 40%;
+    background-color: darkred;
+    float: left;
+}
+.search{
+    width: 50%;
+    background-color: midnightblue;
+    float: right;
+}
+article{
+    background-color: darkslateblue;
+    height: 500px;
+    overflow: hidden;
+}
+.left{
+    width: 20%;
+    height: 500px;
+    float: left;
+    background-color: pink;
+}
+.mid{
+    width: 60%;
+    background-color: rgb(155, 218, 155);
+    height: 500px;
+    float: left;
+}
+.center{
+    width: 70%;
+    height: 500px;
+    float: left;
+    background-color: red;
+}
+.right{
+    width: 20%;
+    height: 100%;
+    float: right;
+    background-color: royalblue;
+}
+.rightt{
+    width: 10%;
+    height: 100%;
+    float: right;
+    background-color: rgb(65, 206, 225);
+}
+.Left_top{
+    width: 100%;
+    height: 250px;
+    background-color: olive;
+}
+.Left_bottom{
+    width: 100%;
+    height: 250px;
+    background-color: peru;
+}
+
+.center_top{
+    width: 100%;
+    height:250px;
+    background-color: saddlebrown;
+}
+.center_bottom{
+    width: 100%;
+    height: 250px;
+    background-color: seagreen;
+}
+.bottom{
+    height: 150px;
+    background-color: khaki;
+}
+.center_right{
+    height: 100%;
+    width:  50%;
+    background-color: lightcoral;
+    float: right;
+    text-align: justify;
+    text-decoration: wavy;
+}
+.center_left{
+    height: 100%;
+    width:  50%;
+    background-color: lightsalmon;
+    float: left;
+}
+footer{
+    background-color: tan;
+    height: 50px;
+    
+}
